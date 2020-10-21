@@ -1,0 +1,1 @@
+javac -cp .;./lib;./thirdparty Brand.java

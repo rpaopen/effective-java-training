@@ -1,0 +1,7 @@
+1.Create Object in memory 
+2.Refernce pointing to object in the memory
+3.Vaariables assigned to the objet memory 
+4.object refernce pointing to both variables to bank account object
+
+
+am not able to skecth the diagram due to expanied the things here
